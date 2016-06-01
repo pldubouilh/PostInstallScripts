@@ -1,4 +1,5 @@
 #! /bin/sh
 
-apt-get update
-apt-get install `cat apps`
+apt update
+apt upgrade
+apt install `cat apps`

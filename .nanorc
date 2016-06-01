@@ -1,0 +1,14 @@
+include ~/.nano/colors/*
+
+set smooth
+set tabsize 2
+set tabstospaces
+set mouse
+set softwrap
+set nowrap
+set backup
+set backupdir "~/.nano/backups"
+set casesensitive
+set historylog
+set morespace
+set nohelp
